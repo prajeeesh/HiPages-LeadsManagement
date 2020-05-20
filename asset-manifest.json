@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prajeeesh/HiPages-LeadsManagement/static/css/main.7ede8e52.chunk.css",
+    "main.js": "/prajeeesh/HiPages-LeadsManagement/static/js/main.b0071414.chunk.js",
+    "main.js.map": "/prajeeesh/HiPages-LeadsManagement/static/js/main.b0071414.chunk.js.map",
+    "runtime-main.js": "/prajeeesh/HiPages-LeadsManagement/static/js/runtime-main.e65d5129.js",
+    "runtime-main.js.map": "/prajeeesh/HiPages-LeadsManagement/static/js/runtime-main.e65d5129.js.map",
+    "static/js/2.821e73b2.chunk.js": "/prajeeesh/HiPages-LeadsManagement/static/js/2.821e73b2.chunk.js",
+    "static/js/2.821e73b2.chunk.js.map": "/prajeeesh/HiPages-LeadsManagement/static/js/2.821e73b2.chunk.js.map",
+    "index.html": "/prajeeesh/HiPages-LeadsManagement/index.html",
+    "precache-manifest.ea76f44bea6509860d0fd21ec1afa719.js": "/prajeeesh/HiPages-LeadsManagement/precache-manifest.ea76f44bea6509860d0fd21ec1afa719.js",
+    "service-worker.js": "/prajeeesh/HiPages-LeadsManagement/service-worker.js",
+    "static/css/main.7ede8e52.chunk.css.map": "/prajeeesh/HiPages-LeadsManagement/static/css/main.7ede8e52.chunk.css.map",
+    "static/js/2.821e73b2.chunk.js.LICENSE.txt": "/prajeeesh/HiPages-LeadsManagement/static/js/2.821e73b2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/prajeeesh/HiPages-LeadsManagement/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65d5129.js",
+    "static/js/2.821e73b2.chunk.js",
+    "static/css/main.7ede8e52.chunk.css",
+    "static/js/main.b0071414.chunk.js"
+  ]
+}
